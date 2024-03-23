@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harsh-Patt (Harsh_Patel)
-- 👀 I’m interested in becoming an mobile app development genius
-- 🌱 I’m currently learning Android studio
+- 👀 I’m interested in becoming an Data genius
+- 🌱 I’m currently learning different data visualization tools
 - 📫 Harshpateldude@gmail.com is where you can drop a Hello!
 
 <!---
